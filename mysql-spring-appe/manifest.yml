@@ -1,0 +1,6 @@
+applications:
+- name: app_mysql_java_3node
+  memory: 1G
+  buildpack: java_buildpack_offline
+  random-route: true
+  path: target/demo-0.0.1-SNAPSHOT.jar
