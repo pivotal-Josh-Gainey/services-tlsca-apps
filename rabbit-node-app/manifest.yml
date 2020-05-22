@@ -1,0 +1,4 @@
+applications:
+  - name: app_rabbit_node
+    memory: 1G
+    random-route: true

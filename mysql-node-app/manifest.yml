@@ -1,0 +1,4 @@
+applications:
+  - name: app_mysql_node_3node
+    memory: 1G
+    random-route: true
